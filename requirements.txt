@@ -1,0 +1,10 @@
+pandas
+joblib
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+tensorflow
+tqdm
+pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126
