@@ -56,7 +56,7 @@ Weather-Forecast-Dhaka/
 └── README.md
 ```
 
-> ⚠️ Update folder/file names if your current structure is different.
+
 
 ---
 
