@@ -37,7 +37,6 @@ This repository presents an exploratory weather analysis of **Dhaka, Bangladesh*
 - **Data Type:** Time-series weather records
 - **Format:** CSV / tabular dataset
 
-> ✍️ Add your original data source/API link here for completeness.
 
 ---
 
