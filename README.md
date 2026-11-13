@@ -68,7 +68,7 @@ Weather-Forecast-Dhaka/
 
 ---
 
-## 📊 Key Insights (Replace with your actual results)
+## 📊 Key Insights
 - 🌡️ Higher temperatures are typically observed in pre-monsoon periods.
 - 💧 Humidity increases significantly during monsoon months.
 - 🌧️ Rainfall variability is strongly seasonal.
